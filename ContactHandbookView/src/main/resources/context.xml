@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <WatchedResource>WEB-INF/web.xml</WatchedResource>
+    <WatchedResource>${catalina.base}/conf/web.xml</WatchedResource>
+
+    <Resource name="jdbc/contactDB" auth="Container"
+              type="javax.sql.DataSource"
+              username="contact_handbook"
+              password="12345"
+              driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://localhost:3306/contact_handbook_db"
+              connectionProperties="useUnicode=yes;characterEncoding=utf8;"
+              maxActive="50"
+              maxIdle="30"
+              maxWait="10000"/>
+</Context>

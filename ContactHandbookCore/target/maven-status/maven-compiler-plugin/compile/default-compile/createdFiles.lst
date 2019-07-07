@@ -1,0 +1,15 @@
+dao\DataConnection.class
+dto\AttachmentFile.class
+dto\AvatarFile.class
+shedulers\MailScheduler.class
+dto\Phone.class
+utils\StringUtils.class
+shedulers\jobs\MailJob.class
+utils\JSONSerializer.class
+utils\JSONSerializer$2.class
+dto\Contact.class
+services\ContactService.class
+services\MailSender$1.class
+utils\JSONSerializer$1.class
+dto\Page.class
+services\MailSender.class
