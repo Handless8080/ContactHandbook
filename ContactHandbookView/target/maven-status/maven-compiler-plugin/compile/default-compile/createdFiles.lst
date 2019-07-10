@@ -1,2 +1,3 @@
+controllers\Urls.class
 filters\MainFilter.class
 controllers\MainServlet.class

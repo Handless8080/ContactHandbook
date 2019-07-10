@@ -162,7 +162,7 @@ public class ContactService {
         return result.toString();
     }
 
-    public static void disableContact(String... ids) {
+    public static void disableContact(String[] ids) {
         if (ids == null || ids.length == 0) {
             return;
         }

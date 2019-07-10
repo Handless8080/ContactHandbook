@@ -35,7 +35,7 @@
                 <artifactId>tomcat7-maven-plugin</artifactId>
                 <configuration>
                     <port>8080</port>
-                    <path>/</path>
+                    <path>/contact-handbook-view-1.0-SNAPSHOT</path>
                     <contextFile>${project.basedir}/src/main/resources/context.xml</contextFile>
                 </configuration>
                 <version>2.2</version>

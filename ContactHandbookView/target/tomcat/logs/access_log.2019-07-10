@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /contact-handbook-view-1.0-SNAPSHOT/ HTTP/1.1" 200 8359 http-bio-8080-exec-1 569
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /contact-handbook-view-1.0-SNAPSHOT/js/contact-form.js HTTP/1.1" 200 20114 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /contact-handbook-view-1.0-SNAPSHOT/js/filter-validation.js HTTP/1.1" 200 3726 http-bio-8080-exec-7 1
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /contact-handbook-view-1.0-SNAPSHOT/js/phone-validation.js HTTP/1.1" 200 1735 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /contact-handbook-view-1.0-SNAPSHOT/js/validation.js HTTP/1.1" 200 5666 http-bio-8080-exec-5 2
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /contact-handbook-view-1.0-SNAPSHOT/js/mustache.js HTTP/1.1" 200 21812 http-bio-8080-exec-4 1
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /contact-handbook-view-1.0-SNAPSHOT/js/main-form.js HTTP/1.1" 200 11322 http-bio-8080-exec-3 8
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /contact-handbook-view-1.0-SNAPSHOT/css/styles.css HTTP/1.1" 200 4113 http-bio-8080-exec-1 2
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /contact-handbook-view-1.0-SNAPSHOT/js/file-form.js HTTP/1.1" 200 7261 http-bio-8080-exec-11 2
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /contact-handbook-view-1.0-SNAPSHOT/js/phone-form.js HTTP/1.1" 200 8931 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /contact-handbook-view-1.0-SNAPSHOT/js/email-send-form.js HTTP/1.1" 200 9601 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:34 +0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [10/Jul/2019:10:47:35 +0300] "POST /contact-handbook-view-1.0-SNAPSHOT/contacts HTTP/1.1" 200 3591 http-bio-8080-exec-10 672
